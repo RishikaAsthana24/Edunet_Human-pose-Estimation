@@ -1,0 +1,6 @@
+complete project structure:
+human-pose-estimation/
+│── pose_estimation.py
+│── requirements.txt
+│── README.md
+└── models/  # (Optional) Store pre-trained models
